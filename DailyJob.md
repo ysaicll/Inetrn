@@ -5,4 +5,7 @@
 6.20 Day4：install OCSG7.0，处理安装时出现的一些错误，启动weblogic时需要kill Derby线程，可以修改startWeblogic.sh输入账号密码，可以保存OCSG安装过程文件，以后可以依次进行静默安装。了解API的创建发布流程
 6.21 Day5：pull code from SVN，进行了本地build，build的时候会有fail的情况，jdk版本过高会引起错误，其它错误可见D:\OCSG\If fail.txt,将工程导入eclipse
 6.22 Day6：work at home,了解了REST架构，试着用postman对服务器进行了测试
-6.23 Day7：
+6.23 Day7：10.182.13.72:8001/portal/partner/index/partnerLogin.html
+6.26 Day8：重装系统，重新配置环境，将环境迁移到自己的账户下来
+6.27 Day9：在eclipse在安装findbugs，pmd，checkstyle插件，进行NOPMD的code check
+6.28 Day10：check   包名上违反的PMD约束，主要有两类问题1类文件过大2包名含有大写字母
